@@ -1,0 +1,6 @@
+In this section, we will use Python's built-in open function to create a file
+and obtain the data from a "txt" file.
+We will use Python's open function to get a file object.
+We can apply a method to that object to read data from the file.
+The first argument is the file path, the second parameter is the mode.
+ end of the fileend of the file
